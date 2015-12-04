@@ -9,4 +9,4 @@ docker-compose up -d
 ```
 The container will bind to port 80 of your docker host
 
-force build 1
+force build 2
